@@ -1,3 +1,3 @@
 # Student-GPA-Calculator
 Using Machine Learning Models to Predict Student GPA in 5th Semester
-[Imgur](https://imgur.com/viK2cfn)
+![Image](https://github.com/farazaraf/Student-GPA-Calculator/blob/main/Screenshot%202024-01-16%20121152.png)
